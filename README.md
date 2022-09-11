@@ -1,2 +1,2 @@
 # PINN_Resample
-About how to improve PINN's accuracy by self-adaptive resample points 
+Using self-adaptive resampling to improve PINN's accuracy
